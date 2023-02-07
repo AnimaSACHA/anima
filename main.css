@@ -31,3 +31,7 @@
     font-style: normal;
     font-display: swap;
 }
+
+.forum-description {
+	background-color: red;
+}
