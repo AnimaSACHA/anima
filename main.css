@@ -1,0 +1,33 @@
+:root {
+	--bg-light: #FAFAFA;
+	--bg-dark: #F3F3F3;
+	--bg-darker: #EDEDED;
+	--bg-darkest: #D3D3D3;
+	--bg-trans: rgba(250, 250, 250, 0.6);
+
+	--txt-clr: #4D4D4D;
+	--txt-font1: "Rubik", sans-serif;
+	--txt-font2:  "Pulsar", monospace;
+	--txt-size-mini: 8px;
+	--txt-size-tiny: 10px;
+	--txt-size-small: 14px;
+	--txt-size-normal: 16px;
+	--txt-size-inter: 20px;
+	--txt-size-title: 24px;
+	--txt-size-huge: 250px;
+
+	--affordance: #7EBDE7;
+	--eclaireur: #EABB84;
+	--gardien: #B4A6EE;
+	--veilleur: #E9707F;
+}
+
+/*HERO FONT*/
+@font-face {
+    font-family: 'Pulsar';
+    src:url('https://www.aldeas.fr/Anima/fonts/pulsar-original-webfont.woff2') format('woff2'),
+        url('https://www.aldeas.fr/Anima/fonts/pulsar-original-webfont.woff') format('woff'),
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
